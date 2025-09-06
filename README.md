@@ -106,4 +106,12 @@ This library is ideal for:
 
 ## License
 
-MIT License
+MIT License   
+## 🌐 Other Projects by the Author
+
+- [pibackup](https://github.com/RaspberryFpc/pibackup) – Portable live backup and restore tool with GUI, Zstandard compression, auto-shrinking (resize2fs) and flexible restore options.
+- [Raspberry-UDP_audio_receiver](https://github.com/RaspberryFpc/Raspberry-UDP_audio_receiver) – Network audio receiver (UDP) with direct ALSA output and very low latency.
+- [DS18B20-FPC-Pi-GUI](https://github.com/RaspberryFpc/DS18B20-FPC-Pi-GUI) – GUI tool to read DS18B20 temperature sensors with linearization for high accuracy.
+- [RaspberryPi-BME280-GUI](https://github.com/RaspberryFpc/RaspberryPi-BME280-GUI) – Free Pascal driver and GUI for BME280 sensor on Raspberry Pi.
+
+
