@@ -9,7 +9,7 @@ Supports Raspberry Pi 4/5 and other boards using the new `gpiod` interface (kern
 - Set direction: input or output
 - Control pull-up, pull-down, and no-pull
 - Support for active-low, open-drain, open-source, or push-pull
-- Fast and lightweight, no external dependencies
+- Very-fast (<2 µs), lightweight, and fully self-contained—no external dependencies required.
 
 ## Usage
 
